@@ -7,3 +7,7 @@ y=int(x)
 print(a)
 print(type(x))
 print(type(y))
+
+# I think the output is:
+#a=21
+#<class'str'>

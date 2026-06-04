@@ -4,3 +4,5 @@
 # print(n)
 # ```
 
+n=int(float("12.2"))
+print(n)

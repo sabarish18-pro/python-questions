@@ -3,3 +3,9 @@
 # it's sunday
 # he is "The President"
 # ```
+# Coding:
+print("it/'s sunday")
+print('''he is 'The' "President
+      hg
+      nkjnkjnkn
+      kjnjn"''')
